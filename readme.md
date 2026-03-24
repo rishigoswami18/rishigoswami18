@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer focused on [your area o
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishigoswami18&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
-- **[Project Name](link)** - Brief description of what it does
-- **[Project Name](link)** - Brief description of what it does
-- **[Project Name](link)** - Brief description of what it does
+- **[freechatweb](link)** - Brief description of what it does
+- **[ScanToPdf](link)** - Brief description of what it does
+- **[EmotionDetection](link)** - Brief description of what it does
 
 ## 🌱 Currently Learning
 - [Skill or Technology 1]
