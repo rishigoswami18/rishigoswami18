@@ -21,15 +21,15 @@ Welcome to my GitHub profile! I'm a passionate developer focused on [your area o
 - **[EmotionDetection](link)** - Brief description of what it does
 
 ## 🌱 Currently Learning
-- [Skill or Technology 1]
-- [Skill or Technology 2]
-- [Skill or Technology 3]
+- Data Analytics
+- machine learning
+-Mern Stack
 
 ## 💬 Let's Connect
-- 💼 **LinkedIn**: [Your LinkedIn profile]
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 **Email**: your.email@example.com
-- 🌐 **Portfolio**: [Your website]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/hrishikesh-giri/
+- 🐦 **Twitter**: https://x.com/RishiGo13597016
+- 📧 **Email**: goswamirishi83@gmail.com
+- 🌐 **Portfolio**: https://hrishiportfoli.netlify.app/
 
 ## 📈 Goals
 - Contribute more to open-source projects
