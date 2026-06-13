@@ -27,10 +27,9 @@ I'm a software engineer focused on creating clean, efficient, and scalable code.
 
 ## 🔗 Connect With Me
 
-- **Email**: [Add your email here]
-- **LinkedIn**: [Add your LinkedIn URL here]
-- **Portfolio**: [Add your portfolio URL here]
-- **Twitter**: [Add your Twitter handle here]
+- **Email**: goswamirishi83@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/hrishikesh-giri/
+- **Portfolio**: https://hrishiportfoli.netlify.app/
 
 ## 📈 Recent Activity
 
