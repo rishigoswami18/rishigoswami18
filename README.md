@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rishi Goswami
+# Hi there! 👋 I'm Hrishikesh Giri
 
 Welcome to my GitHub profile! I'm a passionate developer committed to building innovative solutions and contributing to the open-source community.
 
